@@ -46,5 +46,5 @@ Insights: Highlight critical factors influencing motor vehicle collisions, aidin
 Contributions are welcome! If you'd like to improve the analysis or add new features, please fork the repository and submit a pull request.
 
 ## References
-<a href="https://ggplot2.tidyverse.org/reference/" target="_blank"> ggplot2 Documentation</a>
-<a href="[https://readme.com/](https://dplyr.tidyverse.org/)" target="_blank"> dplyr Package Guide</a>
+<a href="https://ggplot2.tidyverse.org/reference/" target="_blank"> ggplot2 Documentation</a> <br>
+<a href="https://dplyr.tidyverse.org/" target="_blank"> dplyr Package Guide</a>
